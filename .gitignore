@@ -1,0 +1,4 @@
+*.DS_Store
+motifclustering.egg-info
+notebooks/.ipynb_checkpoints
+*__pycache__
