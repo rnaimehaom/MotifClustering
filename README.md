@@ -8,7 +8,7 @@ We assume here conda is already installed on your machine. If not, install conda
 
 First, clone the git repository to the desired location on your machine:
 ```
-cd "path/to/the/desired/location
+cd "path/to/the/desired/location"
 git clone git@github.com:DjampaKozlowski/MotifClustering.git 
 cd MotifClustering/
 ```
